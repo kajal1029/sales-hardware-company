@@ -1,4 +1,4 @@
-# Sales-Hardware-company
+# Sales Insights AtliQ Hardware
 
 
 Project overview
